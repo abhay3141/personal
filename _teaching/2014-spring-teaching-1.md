@@ -3,7 +3,7 @@ title: "CS213/293: Data Structure and Algorithms"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
-venue: "IIT Bombay"
+venue: "CSE Department, IIT Bombay"
 date: 2025-08-01
 location: "India"
 ---

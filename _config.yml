@@ -12,9 +12,9 @@ title                    : "Abhay"
 title_separator          : "-"
 name                     : &name "Abhay"
 description              : &description "personal description"
-url                      : https://abhay3141.github.io/abhay.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abhay3141.github.io/personal/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abhay3141/abhay.github.io"
+repository               : "personal"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Abhay"
   pronouns         : # example: "she/her"  
   bio              :
-  location         : "Bengaluru, India"
+  location         : "Mumbai, India"
   employer         :
   uri              : # URL
   email            : "abh217058@gmail.com" 

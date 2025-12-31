@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* <ins>**Accenture** - _Software Engineer, June 2024 - Present_</ins>  
+* <ins>**Accenture** - _Software Engineer, June 2024 - April 2025_</ins>  
   I am currently working at [Accenture](https://www.accenture.com/in-en) as a Java Developer. In this role, I have been refactoring client Java code using the Spring framework and have gained experience working with Java, Spring, TypeScript, and AWS.
 
 
